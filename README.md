@@ -3,7 +3,6 @@
 **Data Science Internship - Machine Learning Project**
 
 **Intern:** Qadir Hussain
-**Intern Batch:** 2026 AI Internship Program
 **Company:** Code Alpha
 
 ---
